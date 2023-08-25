@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /*10px = 1rem*/
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    background-color: #777;
+    
+} 
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #111;
+    padding: 2rem;
+}
+p{
+    text-align: center;
+    font-size: 2rem;
+    color: cornflowerblue;
+}
